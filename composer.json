@@ -1,7 +1,7 @@
 {
-    "name": "Dojo-Online / LendoUmCheque",
-    "description": "Exercício http://dojopuzzles.com/problemas/exibe/lendo-um-cheque/",
-    "homepage": "https://github.com/Dojo-Online/LendoUmCheque",
+    "name": "Dojo",
+    "description": "Exercícos",
+    "homepage": "https://github.com/tonicospinelli/dojo/",
     "require-dev": {
         "phpunit/phpunit": "3.7@stable",
         "squizlabs/php_codesniffer": "dev-master"
