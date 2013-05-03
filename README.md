@@ -1,7 +1,7 @@
-*Dojo
+Dojo
 =============
 
-Exercício <link>
+Exercício <http://dojopuzzles.com/problemas/exibe/troco/>
 
 Retrospectiva do Dojo
 ---------------------
